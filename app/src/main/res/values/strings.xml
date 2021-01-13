@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SMS gateway</string>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
 </resources>
